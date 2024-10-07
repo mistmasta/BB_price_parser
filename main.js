@@ -5,9 +5,9 @@
 // @description  Получение данных о товарах с карточек
 // @author       Ваше имя
 // @match        https://betboompass.com/shop?order=DESC&is_meta=false&type_game=dota2
-// @downloadURL  https://github.com/
-// @updateURL    https://github.com/
-// @homepage     https://github.com/
+// @downloadURL  https://github.com/mistmasta/BB_price_parser/blob/main/main.js
+// @updateURL    https://github.com/mistmasta/BB_price_parser/blob/main/main.js
+// @homepage     https://github.com/mistmasta/BB_price_parser/
 // @grant        GM.xmlHttpRequest
 // @connect      steamcommunity.com
 // @run-at       document-idle
