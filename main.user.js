@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Данные о товарах Dota2
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Получение данных о товарах с карточек
 // @author       mistmasta
 // @match        https://betboompass.com/shop?order=DESC&is_meta=false&type_game=dota2
