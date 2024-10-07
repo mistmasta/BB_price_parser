@@ -5,8 +5,8 @@
 // @description  Получение данных о товарах с карточек
 // @author       mistmasta
 // @match        https://betboompass.com/shop?order=DESC&is_meta=false&type_game=dota2
-// @downloadURL  https://github.com/mistmasta/BB_price_parser/blob/main/main.js
-// @updateURL    https://github.com/mistmasta/BB_price_parser/blob/main/main.js
+// @downloadURL  https://github.com/mistmasta/BB_price_parser/blob/ef9d31291492da51d296418c28718988fa8c9d34/main.js
+// @updateURL    https://github.com/mistmasta/BB_price_parser/blob/ef9d31291492da51d296418c28718988fa8c9d34/main.js
 // @homepage     https://github.com/mistmasta/BB_price_parser/
 // @grant        GM.xmlHttpRequest
 // @connect      steamcommunity.com
