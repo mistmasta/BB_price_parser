@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Получение данных о товарах с карточек
-// @author       Ваше имя
+// @author       mistmasta
 // @match        https://betboompass.com/shop?order=DESC&is_meta=false&type_game=dota2
 // @downloadURL  https://github.com/mistmasta/BB_price_parser/blob/main/main.js
 // @updateURL    https://github.com/mistmasta/BB_price_parser/blob/main/main.js
